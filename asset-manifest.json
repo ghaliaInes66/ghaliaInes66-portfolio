@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbc6763e.css",
-    "main.js": "/static/js/main.03a12f55.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/desktop.svg": "/static/media/desktop.1941514d9d2ce9ec98be97233fae07d4.svg",
-    "static/media/web.svg": "/static/media/web.a9ad65e13756cce02981ffa3c0772aec.svg",
-    "static/media/github.jpg": "/static/media/github.5a89244569d5d1ba20cd.jpg",
-    "static/media/flutter.png": "/static/media/flutter.f18c3ba208d0b9c91908.png",
-    "static/media/nodejs.svg": "/static/media/nodejs.7e6cfe3c770b235b886fa3fb05692e48.svg",
-    "static/media/githubtool.svg": "/static/media/githubtool.871f2d0c3b92004c168e2525561702e6.svg",
-    "static/media/git.svg": "/static/media/git.084e4396c9b7d2adfe1348751d3c3765.svg",
-    "static/media/react.svg": "/static/media/react.d9c58c015201b57bf9dba45614ae32ed.svg",
-    "static/media/js.svg": "/static/media/js.7eab75c7164461d22cf43bdbec594345.svg",
-    "static/media/c.svg": "/static/media/c.e59be651859031fea478cf96a3f659c9.svg",
-    "static/media/css.svg": "/static/media/css.4ad25afd5ef66bbd16ea79d598ba21fa.svg",
-    "static/media/html.svg": "/static/media/html.e039aa7925c8d3d796876b7c9fb17d45.svg",
-    "index.html": "/index.html",
-    "main.fbc6763e.css.map": "/static/css/main.fbc6763e.css.map",
-    "main.03a12f55.js.map": "/static/js/main.03a12f55.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/ghaliaInes66-portfolio/static/css/main.fbc6763e.css",
+    "main.js": "/ghaliaInes66-portfolio/static/js/main.60f7590d.js",
+    "static/js/787.128fc6e9.chunk.js": "/ghaliaInes66-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/desktop.svg": "/ghaliaInes66-portfolio/static/media/desktop.1941514d9d2ce9ec98be97233fae07d4.svg",
+    "static/media/web.svg": "/ghaliaInes66-portfolio/static/media/web.a9ad65e13756cce02981ffa3c0772aec.svg",
+    "static/media/github.jpg": "/ghaliaInes66-portfolio/static/media/github.5a89244569d5d1ba20cd.jpg",
+    "static/media/flutter.png": "/ghaliaInes66-portfolio/static/media/flutter.f18c3ba208d0b9c91908.png",
+    "static/media/nodejs.svg": "/ghaliaInes66-portfolio/static/media/nodejs.7e6cfe3c770b235b886fa3fb05692e48.svg",
+    "static/media/githubtool.svg": "/ghaliaInes66-portfolio/static/media/githubtool.871f2d0c3b92004c168e2525561702e6.svg",
+    "static/media/git.svg": "/ghaliaInes66-portfolio/static/media/git.084e4396c9b7d2adfe1348751d3c3765.svg",
+    "static/media/react.svg": "/ghaliaInes66-portfolio/static/media/react.d9c58c015201b57bf9dba45614ae32ed.svg",
+    "static/media/js.svg": "/ghaliaInes66-portfolio/static/media/js.7eab75c7164461d22cf43bdbec594345.svg",
+    "static/media/c.svg": "/ghaliaInes66-portfolio/static/media/c.e59be651859031fea478cf96a3f659c9.svg",
+    "static/media/css.svg": "/ghaliaInes66-portfolio/static/media/css.4ad25afd5ef66bbd16ea79d598ba21fa.svg",
+    "static/media/html.svg": "/ghaliaInes66-portfolio/static/media/html.e039aa7925c8d3d796876b7c9fb17d45.svg",
+    "index.html": "/ghaliaInes66-portfolio/index.html",
+    "main.fbc6763e.css.map": "/ghaliaInes66-portfolio/static/css/main.fbc6763e.css.map",
+    "main.60f7590d.js.map": "/ghaliaInes66-portfolio/static/js/main.60f7590d.js.map",
+    "787.128fc6e9.chunk.js.map": "/ghaliaInes66-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fbc6763e.css",
-    "static/js/main.03a12f55.js"
+    "static/js/main.60f7590d.js"
   ]
 }
